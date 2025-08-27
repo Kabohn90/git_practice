@@ -7,3 +7,7 @@ I have now updated the local directory user.email to kabohn90@gmai.com to match
 the github profile.  This update and future should reflect this email for just
 this folder/directory.
 
+I am now telling the computer exactly, what it can do...with a lifetime supply
+of chocolate...
+
+   
